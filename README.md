@@ -1,5 +1,5 @@
 
-# Responsive Web Design Projects - Build a Tribute Page
+# Responsive Web Design Projects - Build a [Tribute Page](https://dawnm.github.io/FCC-Tribute-Page/)
 
 ## Objective: 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
@@ -16,4 +16,11 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 * User Story #7: I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").
 * User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
-*A Pen created at CodePen.io. You can find this one at https://codepen.io/DawnM/pen/gKjWLY.*
+## Author
+DawnM of [DawnM Created](http://www.dawnmcreated.uk)
+
+
+## Acknowledgments
+
+* [FreeCodeCamp](https://learn.freecodecamp.org) for providing a great website to keep my skills honed while working on my FullStack Bootcamp
+* [My wife - CoralizeCM](https://github.com/CoralizeCM) - debug assistant extraordinaire!
